@@ -1,0 +1,9 @@
+[
+  {
+    "server": "EXAMPLE_SERVER\\SQL2019", 
+    "db": "master", 
+    "credential_name":"my_credential",
+    "registration_name":"EXAMPLE_SERVER\\SQL2019",
+    "path":"my_registrations"
+  }
+]
